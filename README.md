@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.hackr.io/uploads/posts/large/1593497000wfnzO4EXAY.png)
 <h1 align="center">Hi 👋, I'm Bhumika</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm11aWx3cms4ZHhrNXNrMGNyMGM3cjJ5eHh2bnMwdnpoZW1sbGxxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrTIa5A84KkbmWVofu/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumikabhoskar&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikabhoskar" /> </p>
 
